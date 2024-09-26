@@ -4,9 +4,9 @@ public class Main {
 
         double weight = 150;
         double height = 1.69;
-        double index = service.calculate(weight,height);
+        double index = service.calculate(weight, height);
 
-        System.out.println ("Индекс массы тела"+ " " + (int)index);
+        System.out.println("Индекс массы тела" + " " + (int) index);
 
 
     }
